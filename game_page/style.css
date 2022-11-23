@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+
+
+.main {
+    width: 90%;
+    text-align: center;
+    margin-left: 45px;
+}
+
+.logo {
+    font-size: 35px;
+}
+
+.heading {
+    padding: 10px 35px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.btn {
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 3px 5px 4px #f9de15;
+    height: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #008000;
+    color: #f9de15;
+    padding: 20px 25px;
+    /* display: inline-block; */
+    margin-top: 20px;
+}
+
+span {
+    color: #f9de15;
+}
+
+.h1-head {
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px #f9de15;
+}
+
+.email {
+    color: #f9de15;
+    font-style: oblique;
+
+}
+
+.img1 {
+    width: 500px;
+    border-radius: 5%;
+    /* box-shadow: 2px 2px 4px #000000; */
+    /* box-shadow: 5px 5px 5px 5px #f9de15; */
+}
+
+.img {
+    padding: 30px ;
+}
+
+#btn {
+    width: 35%;
+    margin-left: 350px;
+}
+
+.para {
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.img2 {
+    margin-top: 20px;
+}
+
+.a-pr {
+    color: #008000;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    background-color: black;
+    /* padding: 10px 10px; */
+    padding: 10px 10px 1px 10px;
+    margin-top: 30px;
+}
+
+.copyr {
+    font-size: 10px;
+    padding-top: 10px;
+}
